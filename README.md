@@ -17,13 +17,13 @@ Everything here is real progress — no copy-paste, no shortcuts.
 - Weekly improvements  
 - Learning notes and clean folder structure  
 
-## 🎯 Goals for 2025
+##  Goals for 2025
 - Build 10–15 solid projects  
 - Become confident with MERN  
 - Apply for internships and freelance work  
 - Contribute to open source  
 
-## 📱 Follow my journey
+##  Follow my journey
 - Instagram: *@gungun_codes*  
 - X (Twitter): *@gungun_180*
 
