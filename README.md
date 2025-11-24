@@ -17,7 +17,7 @@ Everything here is real progress — no copy-paste, no shortcuts.
 - Weekly improvements  
 - Learning notes and clean folder structure  
 
-##  Goals for 2025
+##  Goals for 2026
 - Build 10–15 solid projects  
 - Become confident with MERN  
 - Apply for internships and freelance work  
