@@ -1,10 +1,10 @@
 # Gungun 👋
 
-**B.Tech Computer Science Student | MERN Stack Developer (Learning) | DSA Practice**
+**B.Tech Computer Science Student | MERN Stack Learner | DSA Practice**
 
-I’m a Computer Science student focused on building **real-world web applications and strong problem-solving skills**.
+I’m a Computer Science student focused on developing strong software engineering fundamentals and building real-world web applications.
 
-Currently working on **JavaScript, MERN stack development, and Data Structures & Algorithms**, while building projects that improve my understanding of **clean architecture, debugging, and scalable code**.
+Currently working on **JavaScript, MERN stack development, and Data Structures & Algorithms**, while building projects that improve my understanding of clean code, debugging, and scalable development.
 
 ---
 
@@ -12,35 +12,35 @@ Currently working on **JavaScript, MERN stack development, and Data Structures &
 
 * MERN Stack Development
 * Data Structures & Algorithms
-* Building portfolio-level projects
-* Writing clean, maintainable code
+* Building real-world projects
+* Writing clean and maintainable code
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+**Languages**
 
 * JavaScript
 * C++
 
-### Frontend
+**Frontend**
 
 * HTML
 * CSS
 * JavaScript
 * React (learning)
 
-### Backend
+**Backend**
 
 * Node.js (learning)
 * Express.js (learning)
 
-### Database
+**Database**
 
 * MongoDB (learning)
 
-### Tools
+**Tools**
 
 * Git
 * GitHub
@@ -48,26 +48,32 @@ Currently working on **JavaScript, MERN stack development, and Data Structures &
 
 ---
 
-Projects
-Event Management Website
+## 📂 Projects
+
+### Event Management Website
 
 A web application designed to showcase and manage different events such as weddings, celebrations, and custom functions.
 
 Key features:
-Event showcase page
-Custom event inquiry form
-Clean and responsive UI
-Structured frontend architecture
 
-Handmade Gallery (In Progress)
+* Event showcase page
+* Custom event inquiry form
+* Clean and responsive UI
+* Structured frontend architecture
+
+---
+
+### Handmade Gallery (In Progress)
 
 A web platform to showcase and sell handcrafted items such as trays, gift hampers, and decorative pieces for special occasions.
 
 Planned features:
-Product catalog
-Custom order requests
-Responsive UI
-Backend integration with MERN stack
+
+* Product catalog
+* Custom order requests
+* Responsive UI
+* Backend integration with MERN stack
+
 ---
 
 ## 📚 Currently Learning
@@ -85,11 +91,13 @@ Backend integration with MERN stack
 * Become confident with **MERN stack**
 * Improve **DSA problem solving**
 * Land a **software development internship**
-* Start contributing to **open source**
+* Contribute to **open source**
 
 ---
 
 ## 📫 Connect With Me
+
+Instagram: **@gungun_codes**
 X (Twitter): **@gungun_180**
 
 ---
