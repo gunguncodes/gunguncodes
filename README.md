@@ -99,7 +99,8 @@ Planned features:
 
 ## 🌐 Connect with me
 
-LinkedIn: https://www.linkedin.com/in/gungun-kumari/
+LinkedIn: https://www.linkedin.com/in/gungun-kumari-3ab4853ab/
+
 X (Twitter): **@gungun_180**
 
 ---
