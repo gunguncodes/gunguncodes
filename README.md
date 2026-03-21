@@ -1,4 +1,4 @@
-# Gungun 👋
+# Gungun Kumari
 
 **B.Tech Computer Science Student | MERN Stack Learner | DSA Practice**
 
@@ -97,9 +97,9 @@ Planned features:
 
 ## 📫 Connect With Me
 
-Instagram: **@gungun_codes**
+## 🌐 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/gungun-kumari/
 X (Twitter): **@gungun_180**
 
 ---
-
-*"Learning in public. Building step by step."*
