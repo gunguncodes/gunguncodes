@@ -95,7 +95,6 @@ Planned features:
 
 ---
 
-## 📫 Connect With Me
 
 ## 🌐 Connect with me
 
