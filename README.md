@@ -8,7 +8,7 @@ Currently working on **JavaScript, MERN stack development, and Data Structures &
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 * MERN Stack Development
 * Data Structures & Algorithms
@@ -17,19 +17,20 @@ Currently working on **JavaScript, MERN stack development, and Data Structures &
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**
 
 * JavaScript
 * C++
+* C
 
 **Frontend**
 
 * HTML
 * CSS
 * JavaScript
-* React (learning)
+* React 
 
 **Backend**
 
@@ -48,7 +49,7 @@ Currently working on **JavaScript, MERN stack development, and Data Structures &
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### Event Management Website
 
@@ -63,20 +64,7 @@ Key features:
 
 ---
 
-### Handmade Gallery (In Progress)
-
-A web platform to showcase and sell handcrafted items such as trays, gift hampers, and decorative pieces for special occasions.
-
-Planned features:
-
-* Product catalog
-* Custom order requests
-* Responsive UI
-* Backend integration with MERN stack
-
----
-
-## 📚 Currently Learning
+## Currently Learning
 
 * Advanced JavaScript
 * MERN stack development
@@ -85,9 +73,9 @@ Planned features:
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
-* Build **10+ strong portfolio projects**
+* Build **5+ strong portfolio projects**
 * Become confident with **MERN stack**
 * Improve **DSA problem solving**
 * Land a **software development internship**
@@ -96,7 +84,7 @@ Planned features:
 ---
 
 
-## 🌐 Connect with me
+## Connect with me
 
 LinkedIn: https://www.linkedin.com/in/gungun-kumari-3ab4853ab/
 
