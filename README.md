@@ -66,14 +66,13 @@ Key features:
 
 ## Currently Learning
 
-* Advanced JavaScript
 * MERN stack development
 * Data Structures & Algorithms
 * Backend development fundamentals
 
 ---
 
-## 2026 Goals
+## 2026-27 Goals
 
 * Build **5+ strong portfolio projects**
 * Become confident with **MERN stack**
