@@ -4,7 +4,7 @@
 
 I’m a Computer Science student focused on developing strong software engineering fundamentals and building real-world web applications.
 
-Currently working on **JavaScript, MERN stack development, and Data Structures & Algorithms**, while building projects that improve my understanding of clean code, debugging, and scalable development.
+Currently working on **MERN stack development, and Data Structures & Algorithms**, while building projects that improve my understanding of clean code, debugging, and scalable development.
 
 ---
 
