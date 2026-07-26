@@ -13,7 +13,6 @@ Currently working on **MERN stack development, and Data Structures & Algorithms*
 * MERN Stack Development
 * Data Structures & Algorithms
 * Building real-world projects
-* Writing clean and maintainable code
 
 ---
 
