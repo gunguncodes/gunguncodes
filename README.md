@@ -61,6 +61,8 @@ Key features:
 * Clean and responsive UI
 * Structured frontend architecture
 
+  ### Devpath
+
 ---
 
 ## Currently Learning
