@@ -62,6 +62,7 @@ Key features:
 * Structured frontend architecture
 
   ### Devpath
+  A web application designed to give personalized roadmap to Computer Science students.
 
 ---
 
