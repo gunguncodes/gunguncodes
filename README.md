@@ -29,7 +29,8 @@ Currently working on **MERN stack development, and Data Structures & Algorithms*
 * HTML
 * CSS
 * JavaScript
-* React 
+* React
+* Tailwind CSS
 
 **Backend**
 
