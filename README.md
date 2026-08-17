@@ -78,7 +78,6 @@ Key features:
 ## 2026-27 Goals
 
 * Build **5+ strong portfolio projects**
-* Become confident with **MERN stack**
 * Improve **DSA problem solving**
 * Land a **software development internship**
 * Contribute to **open source**
