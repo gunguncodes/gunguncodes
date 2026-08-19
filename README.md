@@ -63,7 +63,7 @@ Key features:
 * Structured frontend architecture
 
   ### Devpath
-  A web application designed to give personalized roadmaps and guidance to Computer Science students. It helps CS Students to understand where they currently stand, identify the skills. 
+  DevPath is a personalized career roadmap platform for CS students that helps them understand where they currently stand and what they should learn next. It turns confusing career preparation into a clear, structured journey with personalized milestones and daily missions. 
 
 ---
 
