@@ -63,7 +63,16 @@ Key features:
 * Structured frontend architecture
 
   ### Devpath
-  DevPath is a personalized career roadmap platform for CS students that helps them understand where they currently stand and what they should learn next. It turns confusing career preparation into a clear, structured journey with personalized milestones and daily missions. 
+  DevPath is a personalized career roadmap platform for CS students that helps them understand where they currently stand and what they should learn next. It turns confusing career preparation into a clear, structured journey with personalized milestones and daily missions.
+
+  ### AgniLoop
+  AgniLoop is an operational intelligence and decision-support layer using:
+ - spatial clustering
+ - weighted prioritization
+ - environmental risk signals
+ - human verification
+ - dynamic incident updates
+
 
 ---
 
