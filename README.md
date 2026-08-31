@@ -34,8 +34,8 @@ Currently working on **MERN stack development, and Data Structures & Algorithms*
 
 **Backend**
 
-* Node.js (learning)
-* Express.js (learning)
+* Node.js 
+* Express.js 
 
 **Database**
 
